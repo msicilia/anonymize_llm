@@ -8,4 +8,5 @@ dependencies = [
     "langchain>=0.3.8",
     "langchain-ollama>=0.2.0",
     "streamlit>=1.40.2",
+    "streamlit-annotation-tools>=1.0.1",
 ]

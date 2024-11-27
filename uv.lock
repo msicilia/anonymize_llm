@@ -122,6 +122,7 @@ dependencies = [
     { name = "langchain" },
     { name = "langchain-ollama" },
     { name = "streamlit" },
+    { name = "streamlit-annotation-tools" },
 ]
 
 [package.metadata]
@@ -129,6 +130,7 @@ requires-dist = [
     { name = "langchain", specifier = ">=0.3.8" },
     { name = "langchain-ollama", specifier = ">=0.2.0" },
     { name = "streamlit", specifier = ">=1.40.2" },
+    { name = "streamlit-annotation-tools", specifier = ">=1.0.1" },
 ]
 
 [[package]]
@@ -1316,6 +1318,18 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/b0/e5/2bf2daa9c98658f1474bb64e7de030cbc4182b5f2b2196536efedaef02cb/streamlit-1.40.2.tar.gz", hash = "sha256:0cc131fc9b18065feaff8f6f241c81164ad37d8d9e3a85499a0240aaaf6a6a61", size = 8265763 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/ae/53/418536f5d0b87bfbe7bbd8c001983c27e9474f82723bd2e529660fd9a534/streamlit-1.40.2-py2.py3-none-any.whl", hash = "sha256:7f6d1379a590f9625a6aee79ca73ceccff03cd2e05a3acbe5fe98915c27a7ffe", size = 8644775 },
+]
+
+[[package]]
+name = "streamlit-annotation-tools"
+version = "1.0.1"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "streamlit" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/44/b6/f857280587c2cca862ff70942b2443eb50d352746cf5ccfc7bdd7907520f/streamlit_annotation_tools-1.0.1.tar.gz", hash = "sha256:1a6e8cf0ea57f47fada3cbfa6f0656cf3a5c940b20ae2db4699f55e57a0417a3", size = 418530 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/d9/41/794d4e554c6b7aef075175f999cb86305bb4bbc5355cccfc2fbc4c2d2cc9/streamlit_annotation_tools-1.0.1-py3-none-any.whl", hash = "sha256:3022565bed09b13ab700a5983adb3643acfb6681fe7a4f7501b696142912f6f0", size = 429894 },
 ]
 
 [[package]]
