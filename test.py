@@ -18,7 +18,6 @@ note = notes["text"][note_idx]
 
 MODEL_NAMES = ("llama3.1", "llama2", "meditron")
 
-
 left, right = st.columns(2)
 with left:
     llm = st.selectbox(

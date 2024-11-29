@@ -1,0 +1,23 @@
+{
+    "name": [
+        {
+            "start": 14,
+            "end": 42,
+            "label": "José Luis González Hernández"
+        }
+    ],
+    "date": [
+        {
+            "start": 63,
+            "end": 82,
+            "label": "23 de marzo de 2023"
+        }
+    ],
+    "clinic_num": [
+        {
+            "start": 109,
+            "end": 117,
+            "label": "12345678"
+        }
+    ]
+}

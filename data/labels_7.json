@@ -1,0 +1,16 @@
+{
+    "gender": [
+        {
+            "start": 66,
+            "end": 75,
+            "label": "masculino"
+        }
+    ],
+    "age": [
+        {
+            "start": 79,
+            "end": 86,
+            "label": "42 años"
+        }
+    ]
+}

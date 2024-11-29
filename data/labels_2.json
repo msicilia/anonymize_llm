@@ -1,0 +1,28 @@
+{
+    "name": [
+        {
+            "start": 38,
+            "end": 48,
+            "label": "John Smith"
+        }
+    ],
+    "clinic_num": [
+        {
+            "start": 78,
+            "end": 84,
+            "label": "123456"
+        },
+        {
+            "start": 93,
+            "end": 100,
+            "label": "42 años"
+        }
+    ],
+    "address": [
+        {
+            "start": 130,
+            "end": 159,
+            "label": "123 Main Street, Anytown, USA"
+        }
+    ]
+}

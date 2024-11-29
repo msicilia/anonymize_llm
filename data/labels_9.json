@@ -1,0 +1,23 @@
+{
+    "name": [
+        {
+            "start": 14,
+            "end": 24,
+            "label": "John Smith"
+        }
+    ],
+    "age": [
+        {
+            "start": 26,
+            "end": 33,
+            "label": "36 años"
+        }
+    ],
+    "medical_history": [
+        {
+            "start": 488,
+            "end": 547,
+            "label": "historial familiar de artritis reumatoide en su madre y tía"
+        }
+    ]
+}

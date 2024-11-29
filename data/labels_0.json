@@ -1,0 +1,30 @@
+{
+    "name": [
+        {
+            "start": 29,
+            "end": 37,
+            "label": "John Doe"
+        }
+    ],
+    "gender": [
+        {
+            "start": 68,
+            "end": 77,
+            "label": "Masculino"
+        }
+    ],
+    "age": [
+        {
+            "start": 48,
+            "end": 55,
+            "label": "42 años"
+        }
+    ],
+    "address": [
+        {
+            "start": 93,
+            "end": 121,
+            "label": "123 Main Street, Anytown USA"
+        }
+    ]
+}

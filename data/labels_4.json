@@ -1,0 +1,28 @@
+{
+    "name": [
+        {
+            "start": 25,
+            "end": 35,
+            "label": "Juan Pérez"
+        }
+    ],
+    "age": [
+        {
+            "start": 37,
+            "end": 44,
+            "label": "38 años"
+        }
+    ],
+    "dates": [
+        {
+            "start": 66,
+            "end": 76,
+            "label": "15/02/2023"
+        },
+        {
+            "start": 213,
+            "end": 223,
+            "label": "20/12/2022"
+        }
+    ]
+}

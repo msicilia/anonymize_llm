@@ -1,0 +1,44 @@
+{
+    "name": [
+        {
+            "start": 23,
+            "end": 50,
+            "label": "Juan Carlos Pérez Hernández"
+        }
+    ],
+    "age": [
+        {
+            "start": 57,
+            "end": 64,
+            "label": "42 años"
+        }
+    ],
+    "gender": [
+        {
+            "start": 71,
+            "end": 80,
+            "label": "Masculino"
+        }
+    ],
+    "address": [
+        {
+            "start": 92,
+            "end": 139,
+            "label": "Calle 14 #123, Colonia Centro, Ciudad de México"
+        }
+    ],
+    "hospital_name": [
+        {
+            "start": 678,
+            "end": 692,
+            "label": "Clínica Médica"
+        }
+    ],
+    "doctor": [
+        {
+            "start": 1449,
+            "end": 1480,
+            "label": "Dr. Juan Luis Hernández Morales"
+        }
+    ]
+}

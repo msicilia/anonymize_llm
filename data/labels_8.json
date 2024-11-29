@@ -1,1 +1,37 @@
-{"name": [{"start": 23, "end": 38, "label": "Juan P\u00e9rez\nEdad"}]}
+{
+    "name": [
+        {
+            "start": 23,
+            "end": 33,
+            "label": "Juan Pérez"
+        }
+    ],
+    "age": [
+        {
+            "start": 40,
+            "end": 47,
+            "label": "35 años"
+        }
+    ],
+    "gender": [
+        {
+            "start": 56,
+            "end": 65,
+            "label": "Masculino"
+        }
+    ],
+    "dates": [
+        {
+            "start": 81,
+            "end": 91,
+            "label": "15/04/2022"
+        }
+    ],
+    "medical_history": [
+        {
+            "start": 355,
+            "end": 426,
+            "label": "antecedentes familiares de artritis reumatoide en su madre y tía abuela"
+        }
+    ]
+}

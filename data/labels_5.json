@@ -1,0 +1,16 @@
+{
+    "name": [
+        {
+            "start": 14,
+            "end": 24,
+            "label": "Juan Pérez"
+        }
+    ],
+    "age": [
+        {
+            "start": 72,
+            "end": 79,
+            "label": "42 años"
+        }
+    ]
+}

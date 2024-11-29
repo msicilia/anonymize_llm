@@ -1,0 +1,37 @@
+{
+    "name": [
+        {
+            "start": 38,
+            "end": 48,
+            "label": "John Smith"
+        }
+    ],
+    "age": [
+        {
+            "start": 56,
+            "end": 63,
+            "label": "42 años"
+        }
+    ],
+    "gender": [
+        {
+            "start": 73,
+            "end": 82,
+            "label": "Masculino"
+        }
+    ],
+    "clinic_num": [
+        {
+            "start": 102,
+            "end": 112,
+            "label": "1234567890"
+        }
+    ],
+    "medical_history": [
+        {
+            "start": 367,
+            "end": 412,
+            "label": "Historia de artritis reumatoide en la familia"
+        }
+    ]
+}
